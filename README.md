@@ -1,2 +1,2 @@
 # data-structures-java
-homebuilt classes that implement data structures
+home-built classes that implement home-built interfaces (ADT) using underlying data structures (LinkedList, Array) 
