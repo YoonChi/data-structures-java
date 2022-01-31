@@ -1,4 +1,4 @@
 # data-structures-java
-home-built classes that implement home-built interfaces (ADT) using underlying data structures (LinkedList, Array) 
+classes that implement home-built interfaces (ADT) using underlying data structures (LinkedList, Array) 
 
 use data-structures-java repo to continue building data structures/algorithm
